@@ -1,8 +1,36 @@
-# quadcoders
-ReWear – Community Clothing Exchange Overview: Develop ReWear, a web-based platform that enables users to exchange unused clothing through direct swaps or a point-based redemption system. The goal is to promote sustainable fashion and reduce textile waste by encouraging users to reuse wearable garments instead of discarding them. Features: User Authentication Email/password signup and login Landing Page Platform introduction Calls-to-action: “Start Swapping”, “Browse Items”, “List an Item” Featured items carousel User Dashboard Profile details and points balance Uploaded items overview Ongoing and completed swaps list Item Detail Page Image gallery and full item description Uploader info Options: “Swap Request” or “Redeem via Points” Item availability status Add New Item Page Upload images Enter title, description, category, type, size, condition, and tags Submit to list item Admin Role Moderate and approve/reject item listings Remove inappropriate or spam items Lightweight admin panel for oversight0
+# Sparsh Naturals - E-commerce Website
 
-PATEL ZALAK- 23it100@charusat.edu.in PRATHA VYAS- 23it139@charusat.edu.in MANAV SARVAIYA- 23it111@charusat.edu.in SHAH AADIT- 23it115@charusat.edu.in
+🛒 **Live Site**: [https://sparshnaturals.shop](https://sparshnaturals.shop)  
+📧 **Support Email**: rs.sparshnaturals@gmail.com
 
-Canceled
-Port 3000 has been opened
-The task 'CodeSandbox: dev (workspace)' is already active.
+---
+
+## 🧾 About the Project
+
+Sparsh Naturals is a fully functional e-commerce platform focused on selling organic and natural products. The website offers a clean shopping experience, integrated payment gateway, automatic invoice generation, and basic admin controls.
+
+---
+
+## ⚙️ Tech Stack
+
+- **Frontend**: Next.js (App Router) + TypeScript + Tailwind CSS  
+- **Backend**: Supabase (PostgreSQL DB, Auth, and Storage)  
+- **Payments**: Razorpay  
+- **PDF Invoicing**: `@react-pdf/renderer` (Custom generator)  
+- **Deployment**: Vercel  
+
+---
+
+## ✨ Features
+
+- 🌿 Dynamic product listing with categories and stock tracking  
+- 💳 Seamless checkout via Razorpay  
+- 🧾 Automatic PDF invoice generation & download  
+- 📥 Invoices are stored securely in Supabase Storage  
+- 🔐 Basic admin view for order management  
+- 📦 Order statuses (pending, paid, shipped)  
+
+---
+
+
+✅ Built with ❤️ by [KT](https://kjt.vercel.app) | © 2025
